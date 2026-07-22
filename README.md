@@ -77,7 +77,6 @@ I enjoy building scalable, end-to-end analytics solutions that combine data engi
 - AI-Powered Business Intelligence Solutions
 - Medallion Architecture (Bronze • Silver • Gold)
 - Modern Data Warehouse Projects
-- Production-Ready Analytics Pipelines
 
 ---
 
